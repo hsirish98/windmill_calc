@@ -5,7 +5,7 @@
 \alias{turbines_wind}
 \title{Speeds and wind turbine blade lengths}
 \format{
-A data frame with 100 rows and 2 variable
+A data frame with 100 rows and 2 variables
 \itemize{
 \item speeds (m/s)
 \item blade_lengths (meters)
